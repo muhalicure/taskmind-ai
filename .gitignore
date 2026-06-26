@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Yerel geliştirme ve hata notları
+codesign.txt
+codesign_last.txt
+hata2.txt
+son.txt
+son2.txt
+son3.txt
+sonhata.txt
+.flutter-plugins-dependencies 2
+.flutter-plugins-dependencies 3
